@@ -8,5 +8,6 @@
 - [Day 1: Standard Deviation](https://www.hackerrank.com/challenges/s10-standard-deviation/problem)
 - [Day 1: Interquartile Range](https://www.hackerrank.com/challenges/s10-interquartile-range/problem)
 - [Day 4: Binomial Distribution I](https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem)
+- [Day 4: Binomial Distribution II](https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem)
 - [Day 4: Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1/problem)
 - [Day 4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)
