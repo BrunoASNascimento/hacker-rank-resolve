@@ -13,3 +13,5 @@
 - [Day 4: Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem)
 - [Day 5: Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem)
 - [Day 5: Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)
+- [Day 5: Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)
+- [Day 5: Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)
